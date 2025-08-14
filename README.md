@@ -60,17 +60,23 @@
 + **Toujours travailler sur sa branche pour éviter les conflits** 
 
 ## Etape 1 : Téléchargement et intégration
-+ Télécharger le projet dans son environnement local avec un : git clone [xxxx xxx]
++ Télécharger le projet dans son environnement local avec un : git clone https://github.com/Byt3Lab/luma
 + Faire un checkout pour aller sur sa branche : git checkout [nom-de-branche]
 + C'est bon tu peux taffer 🤩
 
 ## Etape 3 : pousser ses modifications en ligne
-+ avant de pousser en ligne ses modification il faut toujours faire : git merge master
-    - ceci pour intégrer les modification de la branche principale
-+ ensuite faire un commit normal : je sais que tu sais le faire 
-+ puis creer un pull request : 
++ faire un commit normal : je sais que tu sais le faire (toujours faire son commit :D) après des modifications sur sa branche
++ vérifier s'il n'y a pas de conflit : avec git diff master
++ avant de pousser en ligne ses modification il faut toujours faire : git merge nom-devotre-branche
+    - ceci pour intégrer les modification à la branche principale et être à jour avec ses modifications
++ puis creer un pull request :
+     - étape 1 pour la pull : git push -u origin nom-devotre-branche
+     - ensuite tu vas sur le lien que git t'aura donner dans le terminal pour creer ta pull request
+     - tu ajoute une description des mofifications que tu as apporté au projet
+     - tu clique sur **create a pull request**
+     - après tu attends juste :D
 + une fois ta pull request créer l'admin du projet fera le reste - il intégrera tes modification à la branche principale
-+ et puis bim c'est tout
++ et puis bim c'est tout :D
 
 # 6. Optionnelle 😁
 + Si tu veux voir l'évolution globale du projet en temps réelle et tester les choses
