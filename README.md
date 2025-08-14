@@ -53,6 +53,11 @@
 + Progression animée pour le quizz : formulaire multi-étape avec barre de progression
 + Loader à l'ouverture du site
 
+## En codant 
++ pour chaque page creer un fichier css spécifique
++ intégrer le fichiers css principale : index.css
++ faite pareil avec js : creer un fichier js dans assets/js/ et inclure également le fichier index.js principal dans toute vos pages
+
 # 5. Intégration dans son environnement local ⏬
 ## Etape 0 : Explication 
 + chaque développeur du projet à une branche créer pour sa partie
