@@ -8,7 +8,7 @@
 + Mukta → sobre, facile à lire.
 
 ## Utilisation dans le code (orientation) 👨🏾‍💻👩🏼‍💻
-+ pour les titres : Ubuntu
++ pour les titres + liens : Ubuntu
 + pours les sous-titres : Mukta
 + pour les paragraphes : Poppins
 
