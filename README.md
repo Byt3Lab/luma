@@ -38,6 +38,10 @@
 ## Pages
 + page accueil
 + page a propos
++ page profile d'apprentissage
+    - en effet il faut une page pour la présentation de chaque profile du test de RIASEC
+    - le test de RIASEC est basé sur 6 profils
+    - il faut donc une page pour chacun des profil(Réaliste, Investigateur, Artistique, Social, Entreprenant, Conventionnel)
 + page quizz
 + page résultat
     - n'est pas sur le menu
